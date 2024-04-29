@@ -1,0 +1,25 @@
+﻿  BaseObject.cpp
+  Bonus.cpp
+  BonusHealth.cpp
+  BonusInvincibility.cpp
+  BonusRockets.cpp
+  BonusShield.cpp
+  Control.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wincontypes.h(103,1): warning C4005: MOUSE_MOVED: předefinování makra
+D:\Fanda\ostatni\skola\PA2\Semestralka\SeaImpact\SeaImpact\include\curses.h(160): message : viz předchozí definice MOUSE_MOVED
+  Coordinates.cpp
+  Enemy.cpp
+  EnemyBoss.cpp
+  EnemyNarrow.cpp
+  EnemyToucher.cpp
+  EnemyWiggler.cpp
+  FileManager.cpp
+  GameRender.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\wincontypes.h(103,1): warning C4005: MOUSE_MOVED: předefinování makra
+D:\Fanda\ostatni\skola\PA2\Semestralka\SeaImpact\SeaImpact\include\curses.h(160): message : viz předchozí definice MOUSE_MOVED
+  Main.cpp
+  Player.cpp
+  Shot.cpp
+  Spawner.cpp
+  Generování kódu...
+  SeaImpact.vcxproj -> D:\Fanda\ostatni\skola\PA2\Semestralka\SeaImpact\Debug\SeaImpact.exe

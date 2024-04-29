@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SeaImpact", "SeaImpact\SeaImpact.vcxproj", "{ABE6C26B-7D7C-47DD-82D5-2EAF3C90F0BE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{F1E0FEEB-F98B-4A02-ABB3-B18D2F420E1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABE6C26B-7D7C-47DD-82D5-2EAF3C90F0BE}.Debug|x64.ActiveCfg = Debug|x64
+		{ABE6C26B-7D7C-47DD-82D5-2EAF3C90F0BE}.Debug|x64.Build.0 = Debug|x64
+		{ABE6C26B-7D7C-47DD-82D5-2EAF3C90F0BE}.Debug|x86.ActiveCfg = Debug|Win32
+		{ABE6C26B-7D7C-47DD-82D5-2EAF3C90F0BE}.Debug|x86.Build.0 = Debug|Win32
+		{ABE6C26B-7D7C-47DD-82D5-2EAF3C90F0BE}.Release|x64.ActiveCfg = Release|x64
+		{ABE6C26B-7D7C-47DD-82D5-2EAF3C90F0BE}.Release|x64.Build.0 = Release|x64
+		{ABE6C26B-7D7C-47DD-82D5-2EAF3C90F0BE}.Release|x86.ActiveCfg = Release|Win32
+		{ABE6C26B-7D7C-47DD-82D5-2EAF3C90F0BE}.Release|x86.Build.0 = Release|Win32
+		{F1E0FEEB-F98B-4A02-ABB3-B18D2F420E1B}.Debug|x64.ActiveCfg = Debug
+		{F1E0FEEB-F98B-4A02-ABB3-B18D2F420E1B}.Debug|x86.ActiveCfg = Debug
+		{F1E0FEEB-F98B-4A02-ABB3-B18D2F420E1B}.Release|x64.ActiveCfg = Release
+		{F1E0FEEB-F98B-4A02-ABB3-B18D2F420E1B}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD08AC22-BB13-4512-A5F9-5C639814D2AC}
+	EndGlobalSection
+EndGlobal

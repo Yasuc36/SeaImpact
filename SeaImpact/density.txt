@@ -1,0 +1,7 @@
+Name	Value(0-9)
+spawn	6
+boss	2
+narrow	7
+toucher	6
+wiggler	5
+bonus	3
